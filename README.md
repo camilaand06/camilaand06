@@ -7,6 +7,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Alura 
 - 🌱 I’m currently learning Github 
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I really like cooking
 -->
