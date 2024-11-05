@@ -1,8 +1,7 @@
-## Hello 👋
-
+## Hello 👋 
 <!--
-**camilaand06/camilaand06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**camilaand06/camilaand06**
+I'm 16 years old 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Alura 
